@@ -30,5 +30,11 @@
 
 ---
 
+## 🎯 Current Goals
+- Improve backend architecture skills
+- Learn API design best practices
+
+---
+
 ## 📫 Contact
 - LinkedIn: linkedin.com/in/bruno-morales-5888373a6
