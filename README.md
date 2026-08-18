@@ -50,7 +50,7 @@ I'm continuously learning new technologies and looking for opportunities to impr
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BRMR19&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BRMR19&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
