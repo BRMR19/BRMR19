@@ -47,20 +47,6 @@ I'm continuously learning new technologies and looking for opportunities to impr
 
 ---
 
-## 💼 Featured Project
-
-### SIGDA — Sistema Integral de Gestión Documental y Administrativa
-
-A web application developed to improve the management and organization of administrative information.
-
-**Technologies:**
-
-`Vue.js` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `SQLite` · `JWT` · `Docker`
-
-The project includes features such as document management, user authentication, administrative management, and calendar functionality.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -86,7 +72,7 @@ The project includes features such as document management, user authentication, 
 
 ## 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/bruno-morales-5888373a6">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
