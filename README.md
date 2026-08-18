@@ -1,20 +1,63 @@
-<h1 align="center">Hi, I'm Bruno</h1>
-<h3 align="center">Backend Developer in progress </h3>
+# Hi, I'm Bruno 👋
+
+### Software Engineering Student | Full Stack Developer
+
+I'm a Software Engineering student with a strong interest in **full stack web development**. I enjoy building web applications, designing APIs, working with databases, and solving problems through clean and maintainable code.
+
+I'm continuously learning new technologies and looking for opportunities to improve my skills through real-world projects.
 
 ---
 
-## 🧠 About me
-- 💻 Software Engineering student
-- ⚙️ Focused on Backend Development
-- 🔍 Interested in debugging and process optimization
+## 🧠 About Me
+
+* 🎓 Software Engineering student
+* 💻 Focused on **Full Stack Web Development**
+* ⚙️ Experienced with **JavaScript, Python, Node.js and Express**
+* 🌐 Interested in building scalable and reliable web applications
+* 🗄️ Experience working with databases and REST APIs
+* 🐳 Currently expanding my knowledge of **Docker, DevOps and modern web technologies**
 
 ---
 
-## 🚀 Tech I know
+## 🚀 Tech Stack
+
+### Languages & Web
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,python,mysql,git,github,html,css,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css" />
 </p>
+
+### Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vue,vite,tailwind" />
+</p>
+
+### Database & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,docker,git,github,postman,vscode" />
+</p>
+
+---
+
+## 💼 Featured Project
+
+### SIGDA — Sistema Integral de Gestión Documental y Administrativa
+
+A web application developed to improve the management and organization of administrative information.
+
+**Technologies:**
+
+`Vue.js` · `Vite` · `Tailwind CSS` · `Node.js` · `Express` · `SQLite` · `JWT` · `Docker`
+
+The project includes features such as document management, user authentication, administrative management, and calendar functionality.
 
 ---
 
@@ -31,10 +74,21 @@
 ---
 
 ## 🎯 Current Goals
-- Improve backend architecture skills
-- Learn API design best practices
+
+* 🚀 Improve my full stack development skills
+* 🏗️ Learn better software architecture and API design practices
+* 🐳 Strengthen my knowledge of Docker and DevOps
+* ☁️ Explore cloud technologies and deployment
+* 📚 Continue learning modern web development technologies
+* 💼 Gain professional experience as a Full Stack Developer
 
 ---
 
-## 📫 Contact
-- LinkedIn: linkedin.com/in/bruno-morales-5888373a6
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/bruno-morales-5888373a6">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
