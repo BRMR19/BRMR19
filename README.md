@@ -1,6 +1,6 @@
 # Hi, I'm Bruno 👋
 
-I'm a Software Engineering student with a strong interest in **full stack web development**. I enjoy building web applications, designing APIs, working with databases, and solving problems through clean and maintainable code.
+I'm a Software Engineering student with a strong interest in full stack web development. I enjoy building web applications, designing APIs, working with databases, and solving problems through clean and maintainable code.
 
 I'm continuously learning new technologies and looking for opportunities to improve my skills through real-world projects.
 
@@ -9,11 +9,11 @@ I'm continuously learning new technologies and looking for opportunities to impr
 ## 🧠 About Me
 
 * 🎓 Software Engineering student
-* 💻 Focused on **Full Stack Web Development**
-* ⚙️ Experienced with **JavaScript, Python, Node.js and Express**
+* 💻 Focused on Full Stack Web Development
+* ⚙️ Experienced with JavaScript, Python, Node.js and Express
 * 🌐 Interested in building scalable and reliable web applications
 * 🗄️ Experience working with databases and REST APIs
-* 🐳 Currently expanding my knowledge of **Docker, DevOps and modern web technologies**
+* 🐳 Currently expanding my knowledge of Docker, DevOps and modern web technologies
 
 ---
 
